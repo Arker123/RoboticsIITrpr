@@ -1,0 +1,35 @@
+.main-image img{
+	width:100%;
+}
+.main-image{
+	padding:0;
+	margin:0;
+}
+
+
+.welcome-ad{
+	margin:50px;
+	width:200px;
+	height:80px;
+}
+.align-center-ad{
+	text-align:center;
+}
+.main-background{
+	background: #e7f3ff;
+}
+
+.main-text p{
+	font-size:16px;
+	font-family: 'Josefin Sans', sans-serif;
+	margin-bottom:80px;
+}
+.carousel-item
+{
+	align-items:center;
+	text-align:center;
+}
+.carousel-item img
+{
+	margin:0 auto;
+}
